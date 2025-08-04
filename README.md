@@ -7,7 +7,7 @@ An interactive, AI-powered toy built with Raspberry Pi, servo motors, and comput
 - Camera integration — recognizes shapes and colors using machine learning (OpenCV or TensorFlow).
 - Detects and responds to various 2D shapes (e.g., circle, triangle, square)
 - Raspberry Pi powered — all logic, detection, and control run locally on a Pi.
-- Modular, beginner-friendly hardware and codebaseun learning tool for education.
+- Modular, beginner-friendly hardware learning tool for education.
 
 # Shapes Recognized
 - Square
